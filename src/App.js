@@ -4,7 +4,7 @@ import axios from "axios";
 import ImageWrapper from "./Components/ImageWrapper";
 import Main from "./Components/Main";
 
-const baseURL = "http://www.reddit.com/r/pics/.json?jsonp=";
+const baseURL = "https://www.reddit.com/r/pics/.json?jsonp=";
 
 function App() {
 	const [originalData, setOriginalData] = useState(null);
