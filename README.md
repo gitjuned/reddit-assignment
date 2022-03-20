@@ -2,21 +2,23 @@
 
 Checkout the Live Project DEMO [LINK](https://reddit-test.surge.sh/).
 
-## Starting the Project Locally Scripts
+## Starting the Project Locally
 
-### Take pull from the `Master` Branch
+### 1. Clone the repository
 
-### `npm install`
+### 2. `npm install`
 
 Installs all the dependencies.
 
-### `npm start`
+### 3. `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## Other Commands
 
 ### `npm test`
 
