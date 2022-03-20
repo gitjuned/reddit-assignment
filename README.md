@@ -2,9 +2,13 @@
 
 Checkout the Live Project DEMO [LINK](https://reddit-test.surge.sh/).
 
-## Available Scripts
+## Starting the Project Locally Scripts
 
-In the project directory, you can run:
+### Take pull from the `Master` Branch
+
+### `npm install`
+
+Installs all the dependencies.
 
 ### `npm start`
 
